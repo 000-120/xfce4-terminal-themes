@@ -1,5 +1,6 @@
 # xfce4-terminal-themes
 
-A collection of themes for the xfce terminal emulator
+Forked de https://github.com/ianriva/xfce4-terminal-themes.
 
-Copy the files under the "~/.local/share/xfce4/terminal/colorschemes/" directory.
+Coleção de temas para o terminal do xfce4
+Copiar para: "~/.local/share/xfce4/terminal/colorschemes/"
